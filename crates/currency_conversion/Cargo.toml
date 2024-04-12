@@ -2,7 +2,7 @@
 name = "currency_conversion"
 description = "Currency conversion for cost based routing"
 version = "0.1.0"
-edition.workspace = true
+edition.workspace = true 
 rust-version.workspace = true
 license.workspace = true
 
