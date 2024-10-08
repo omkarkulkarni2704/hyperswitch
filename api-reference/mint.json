@@ -1,6 +1,8 @@
 {
   "$schema": "https://mintlify.com/schema.json",
+  # <a href="https://hyperswitch.io/" target="_blank"> Hyperswitch </a>
   "name": "Hyperswitch",
+  
   "logo": {
     "dark": "/logo/dark.svg",
     "light": "/logo/light.svg"
@@ -11,7 +13,7 @@
     "light": "#006DF9",
     "dark": "#006DF9",
     "background": {
-      "dark": "#242F48"
+      "dark": "#242F50"
     }
   },
   "tabs": [
